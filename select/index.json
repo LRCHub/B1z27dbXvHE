@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "全部しようぜ",
+  "base_artist": "映秀。",
+  "createdAt": "2025-12-28T09:23:13.036175Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "全部しようぜ",
+      "artist": "映秀。",
+      "has_synced": false,
+      "path": "select/pl_01_全部しようぜ_映秀。.txt"
+    }
+  ]
+}
